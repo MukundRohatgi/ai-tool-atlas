@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "An AI chatbot developed by OpenAI for writing, coding, research, and problem-solving.",
+    "website": "https://chat.openai.com",
+    "tags": ["chatbot", "writing", "coding"],
+
+    "features": [
+      "Natural language conversation",
+      "Code generation and debugging",
+      "Content writing and summarization",
+      "Multi-domain knowledge support"
+    ],
+    "useCases": [
+      "Writing articles and blogs",
+      "Learning programming",
+      "Debugging code",
+      "Research and brainstorming"
+    ],
+    "pros": [
+      "Easy to use",
+      "Wide range of use cases",
+      "Fast responses"
+    ],
+    "cons": [
+      "Free version has limitations",
+      "May produce incorrect answers"
+    ],
+    "bestFor": "Students, developers, content creators",
+    "pricingDetails": "Free tier available. Paid plans offer advanced models and faster responses."
+  },
+
+  {
+    "id": 2,
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "category": "Design",
+    "pricing": "Paid",
+    "description": "An AI image generation tool that creates artistic visuals from text prompts.",
+    "website": "https://www.midjourney.com",
+    "tags": ["image", "art", "design"],
+
+    "features": [
+      "Text-to-image generation",
+      "Highly artistic outputs",
+      "Style customization",
+      "Community-based prompt sharing"
+    ],
+    "useCases": [
+      "Concept art creation",
+      "Graphic design inspiration",
+      "Social media visuals"
+    ],
+    "pros": [
+      "High-quality images",
+      "Creative styles"
+    ],
+    "cons": [
+      "Paid-only plans",
+      "Discord-based interface"
+    ],
+    "bestFor": "Designers, artists, creatives",
+    "pricingDetails": "Subscription-based pricing with multiple tiers."
+  },
+
+  {
+    "id": 3,
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "AI assistant inside Notion for writing, summarizing, and organizing work.",
+    "website": "https://www.notion.so/product/ai",
+    "tags": ["notes", "productivity"],
+
+    "features": [
+      "Document summarization",
+      "Content generation",
+      "Task automation"
+    ],
+    "useCases": [
+      "Meeting notes",
+      "Project planning",
+      "Knowledge management"
+    ],
+    "pros": [
+      "Deep Notion integration",
+      "Improves productivity"
+    ],
+    "cons": [
+      "Requires Notion subscription"
+    ],
+    "bestFor": "Teams, students, professionals",
+    "pricingDetails": "Paid add-on to Notion plans."
+  },
+
+  {
+    "id": 4,
+    "name": "GitHub Copilot",
+    "slug": "github-copilot",
+    "category": "Development",
+    "pricing": "Paid",
+    "description": "AI coding assistant that suggests code directly in your editor.",
+    "website": "https://github.com/features/copilot",
+    "tags": ["coding", "developer"],
+
+    "features": [
+      "Real-time code suggestions",
+      "Supports multiple languages",
+      "IDE integration"
+    ],
+    "useCases": [
+      "Writing boilerplate code",
+      "Learning new languages",
+      "Speeding up development"
+    ],
+    "pros": [
+      "Boosts developer productivity"
+    ],
+    "cons": [
+      "Paid only",
+      "Suggestions may be inaccurate"
+    ],
+    "bestFor": "Software developers",
+    "pricingDetails": "Monthly subscription pricing."
+  },
+
+  {
+    "id": 5,
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI writing assistant that improves grammar, tone, and clarity.",
+    "website": "https://www.grammarly.com",
+    "tags": ["writing", "grammar"],
+
+    "features": [
+      "Grammar correction",
+      "Tone suggestions",
+      "Plagiarism detection"
+    ],
+    "useCases": [
+      "Emails",
+      "Academic writing",
+      "Professional documents"
+    ],
+    "pros": [
+      "Easy to use",
+      "Wide integrations"
+    ],
+    "cons": [
+      "Advanced features are paid"
+    ],
+    "bestFor": "Writers, students, professionals",
+    "pricingDetails": "Free basic plan, paid premium features."
+  },
+
+  {
+    "id": 6,
+    "name": "Canva AI",
+    "slug": "canva-ai",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "AI-powered design tools for graphics, presentations, and marketing content.",
+    "website": "https://www.canva.com",
+    "tags": ["design", "marketing"],
+
+    "features": [
+      "AI image generation",
+      "Template-based design",
+      "Brand kits"
+    ],
+    "useCases": [
+      "Social media posts",
+      "Presentations",
+      "Marketing assets"
+    ],
+    "pros": [
+      "Beginner-friendly",
+      "Large template library"
+    ],
+    "cons": [
+      "Limited advanced customization"
+    ],
+    "bestFor": "Marketers, non-designers",
+    "pricingDetails": "Free tier with optional Pro subscription."
+  },
+
+  {
+    "id": 7,
+    "name": "Runway ML",
+    "slug": "runway-ml",
+    "category": "Design",
+    "pricing": "Freemium",
+    "description": "Creative AI platform for video editing and generative video effects.",
+    "website": "https://runwayml.com",
+    "tags": ["video", "creative"],
+
+    "features": [
+      "Video background removal",
+      "Text-to-video generation",
+      "AI effects"
+    ],
+    "useCases": [
+      "Video editing",
+      "Content creation"
+    ],
+    "pros": [
+      "Advanced AI features"
+    ],
+    "cons": [
+      "Learning curve"
+    ],
+    "bestFor": "Video creators",
+    "pricingDetails": "Free tier with paid upgrades."
+  },
+
+  {
+    "id": 8,
+    "name": "Jasper",
+    "slug": "jasper",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "AI writing tool for marketing copy, blogs, and ads.",
+    "website": "https://www.jasper.ai",
+    "tags": ["marketing", "copywriting"],
+
+    "features": [
+      "Marketing templates",
+      "Brand voice support"
+    ],
+    "useCases": [
+      "Ad copy",
+      "Blog writing"
+    ],
+    "pros": [
+      "Marketing-focused"
+    ],
+    "cons": [
+      "Paid only"
+    ],
+    "bestFor": "Marketing teams",
+    "pricingDetails": "Subscription-based pricing."
+  },
+
+  {
+    "id": 9,
+    "name": "Perplexity AI",
+    "slug": "perplexity-ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "description": "AI-powered search engine with cited answers.",
+    "website": "https://www.perplexity.ai",
+    "tags": ["search", "research"],
+
+    "features": [
+      "Source-backed answers",
+      "Fast search"
+    ],
+    "useCases": [
+      "Research",
+      "Fact checking"
+    ],
+    "pros": [
+      "Accurate citations"
+    ],
+    "cons": [
+      "Limited advanced features"
+    ],
+    "bestFor": "Researchers, students",
+    "pricingDetails": "Free tier with optional paid plan."
+  },
+
+  {
+    "id": 10,
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "category": "Development",
+    "pricing": "Freemium",
+    "description": "AI voice generation platform for realistic speech synthesis.",
+    "website": "https://elevenlabs.io",
+    "tags": ["voice", "audio"],
+
+    "features": [
+      "Text-to-speech",
+      "Voice cloning"
+    ],
+    "useCases": [
+      "Voiceovers",
+      "Audiobooks"
+    ],
+    "pros": [
+      "High-quality voices"
+    ],
+    "cons": [
+      "Usage limits on free tier"
+    ],
+    "bestFor": "Content creators",
+    "pricingDetails": "Free tier with paid plans."
+  }
+]
